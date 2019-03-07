@@ -1,0 +1,95 @@
+.navbar .cre,
+#cre { 
+ color: red ;
+ font-size: 1rem; 
+}
+
+.jumbotron { 
+  background: url(../img/Black%20City.png);
+
+ 
+} 
+
+.btn,
+.active { 
+  transition: .9s; 
+}
+
+ul li .nos { 
+  width: 60px;
+  height: 60px; 
+  
+
+  margin-right: 30px;
+  background: url(../img/nodestradamus.png);
+
+  background-repeat:round;  
+} 
+
+ul li .ange { 
+  width: 60px;
+  height: 60px; 
+  
+
+  margin-right: 30px;
+  background: url(../img/angie.png);
+
+  background-repeat:round;  
+} 
+
+ul li .jay { 
+  width: 60px;
+  height: 60px; 
+  
+
+  margin-right: 30px;
+  background: url(../img/jay.png);
+
+  background-repeat:round;  
+} 
+
+ul li .ecma{ 
+  width: 60px;
+  height: 60px; 
+  
+
+  margin-right: 30px;
+  background: url(../img/ecma.png);
+
+  background-repeat:round;  
+} 
+
+ul li .geo{ 
+  width: 60px;
+  height: 60px; 
+  
+
+  margin-right: 30px;
+  background: url(../img/geo.png);
+
+  background-repeat:round;  
+} 
+
+ul li .json{ 
+  width: 60px;
+  height: 60px; 
+  
+
+  margin-right: 30px;
+  background: url(../img/json.png);
+
+  background-repeat:round;  
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
